@@ -1,0 +1,8 @@
+# Usage
+
+Usage of dir_size:
+  -b    Print Bytes, ignores u flag
+  -d string
+        Use another path (default <Directory where you call this>)
+  -r    Calculate size recursively (default true)
+  -u    Use decimal units instead of binary
